@@ -29,17 +29,19 @@ function getLength(arr, cb) {
     return cb(arr.length);
     // getLength passes the length of the array into the callback.
 }
-getLength(items, function(last) {
-    console.log(last);
-})
-
+getLength(items, function(length) {
+    console.log(length);
+});
 
 
 
 function last(arr, cb) {
-
+    return cb(arr[arr.length - 1]);
     // last passes the last item of the array into the callback.
 }
+last(items, function(_lastitem) {
+    console.log(_lastitem);
+});
 
 function sumNums(x, y, cb) {
     // sumNums adds two numbers (x, y) and passes the result to the callback.
