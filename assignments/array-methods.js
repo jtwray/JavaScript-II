@@ -4,7 +4,7 @@
 
 const runners = [{ "id": 1, "first_name": "Charmain", "last_name": "Seiler", "email": "cseiler0@wired.com", "shirt_size": "2XL", "company_name": "Divanoodle", "donation": 75 },
     { "id": 2, "first_name": "Whitaker", "last_name": "Ierland", "email": "wierland1@angelfire.com", "shirt_size": "2XL", "company_name": "Wordtune", "donation": 148 },
-    { "id": 3, "first_name": "Julieta", "last_name": "McCloid", "email": "jmccloid2@yahoo.com", "shirt_size": "S", "company_name": "Riffpedia", "donation": 171 },
+    { "id": 3, "first_name": "Julieta", "last_name": "McClocompany_name", "email": "jmcclocompany_name2@yahoo.com", "shirt_size": "S", "company_name": "Riffpedia", "donation": 171 },
     { "id": 4, "first_name": "Martynne", "last_name": "Paye", "email": "mpaye3@sciencedaily.com", "shirt_size": "XL", "company_name": "Wordware", "donation": 288 },
     { "id": 5, "first_name": "Gussy", "last_name": "Raraty", "email": "graraty4@ucoz.ru", "shirt_size": "L", "company_name": "Oozz", "donation": 291 },
     { "id": 6, "first_name": "Yule", "last_name": "Tommasetti", "email": "ytommasetti5@state.gov", "shirt_size": "S", "company_name": "Yodo", "donation": 27 },
@@ -12,7 +12,7 @@ const runners = [{ "id": 1, "first_name": "Charmain", "last_name": "Seiler", "em
     { "id": 8, "first_name": "Tanner", "last_name": "Branton", "email": "tbranton7@tmall.com", "shirt_size": "2XL", "company_name": "Realmix", "donation": 28 },
     { "id": 9, "first_name": "Sarina", "last_name": "Lasham", "email": "slasham8@toplist.cz", "shirt_size": "XL", "company_name": "Gigashots", "donation": 110 },
     { "id": 10, "first_name": "Bertie", "last_name": "Lonergan", "email": "blonergan9@issuu.com", "shirt_size": "3XL", "company_name": "Skinte", "donation": 62 },
-    { "id": 11, "first_name": "Trevor", "last_name": "Studd", "email": "tstudda@networkadvertising.org", "shirt_size": "S", "company_name": "Cogidoo", "donation": 76 },
+    { "id": 11, "first_name": "Trevor", "last_name": "Studd", "email": "tstudda@networkadvertising.org", "shirt_size": "S", "company_name": "Cogcompany_nameoo", "donation": 76 },
     { "id": 12, "first_name": "Malachi", "last_name": "Okeshott", "email": "mokeshottb@chron.com", "shirt_size": "M", "company_name": "DabZ", "donation": 91 },
     { "id": 13, "first_name": "Berget", "last_name": "Logsdail", "email": "blogsdailc@wix.com", "shirt_size": "M", "company_name": "Mymm", "donation": 9 },
     { "id": 14, "first_name": "Loise", "last_name": "Rivlin", "email": "lrivlind@behance.net", "shirt_size": "2XL", "company_name": "Linktype", "donation": 204 },
@@ -21,7 +21,7 @@ const runners = [{ "id": 1, "first_name": "Charmain", "last_name": "Seiler", "em
     { "id": 17, "first_name": "Heddie", "last_name": "Heningam", "email": "hheningamg@tripadvisor.com", "shirt_size": "L", "company_name": "Skinix", "donation": 172 },
     { "id": 18, "first_name": "Mace", "last_name": "Ballinger", "email": "mballingerh@a8.net", "shirt_size": "S", "company_name": "Nlounge", "donation": 266 },
     { "id": 19, "first_name": "Nola", "last_name": "Abberley", "email": "nabberleyi@jalbum.net", "shirt_size": "XL", "company_name": "Photospace", "donation": 148 },
-    { "id": 20, "first_name": "Nadine", "last_name": "Tresler", "email": "ntreslerj@marketwatch.com", "shirt_size": "3XL", "company_name": "Wikido", "donation": 292 },
+    { "id": 20, "first_name": "Nadine", "last_name": "Tresler", "email": "ntreslerj@marketwatch.com", "shirt_size": "3XL", "company_name": "Wikcompany_nameo", "donation": 292 },
     { "id": 21, "first_name": "Ulrikaumeko", "last_name": "Vuittet", "email": "uvuittetk@gov.uk", "shirt_size": "S", "company_name": "Skinte", "donation": 102 },
     { "id": 22, "first_name": "Saunder", "last_name": "Spennock", "email": "sspennockl@icq.com", "shirt_size": "3XL", "company_name": "Kwimbee", "donation": 213 },
     { "id": 23, "first_name": "Carmel", "last_name": "Woffinden", "email": "cwoffindenm@wikispaces.com", "shirt_size": "S", "company_name": "Rooxo", "donation": 137 },
@@ -31,7 +31,7 @@ const runners = [{ "id": 1, "first_name": "Charmain", "last_name": "Seiler", "em
     { "id": 27, "first_name": "Sacha", "last_name": "Olsen", "email": "solsenq@reverbnation.com", "shirt_size": "2XL", "company_name": "Viva", "donation": 190 },
     { "id": 28, "first_name": "Jamey", "last_name": "O'Nolan", "email": "jonolanr@samsung.com", "shirt_size": "XL", "company_name": "Skinix", "donation": 31 },
     { "id": 29, "first_name": "Morrie", "last_name": "Rainard", "email": "mrainards@yale.edu", "shirt_size": "XS", "company_name": "Podcat", "donation": 52 },
-    { "id": 30, "first_name": "Fidel", "last_name": "Roskelly", "email": "froskellyt@ibm.com", "shirt_size": "XS", "company_name": "Avavee", "donation": 5 },
+    { "id": 30, "first_name": "Fcompany_nameel", "last_name": "Roskelly", "email": "froskellyt@ibm.com", "shirt_size": "XS", "company_name": "Avavee", "donation": 5 },
     { "id": 31, "first_name": "Toni", "last_name": "MacSweeney", "email": "tmacsweeneyu@parallels.com", "shirt_size": "M", "company_name": "Jaloo", "donation": 82 },
     { "id": 32, "first_name": "Jessey", "last_name": "Walhedd", "email": "jwalheddv@slashdot.org", "shirt_size": "L", "company_name": "Trilia", "donation": 5 },
     { "id": 33, "first_name": "Karola", "last_name": "Piper", "email": "kpiperw@ucsd.edu", "shirt_size": "3XL", "company_name": "Yombu", "donation": 110 },
@@ -40,15 +40,15 @@ const runners = [{ "id": 1, "first_name": "Charmain", "last_name": "Seiler", "em
     { "id": 36, "first_name": "Tye", "last_name": "Manie", "email": "tmaniez@netscape.com", "shirt_size": "L", "company_name": "Kanoodle", "donation": 30 },
     { "id": 37, "first_name": "Charleen", "last_name": "Sheering", "email": "csheering10@mit.edu", "shirt_size": "3XL", "company_name": "Jatri", "donation": 262 },
     { "id": 38, "first_name": "Valma", "last_name": "Eynaud", "email": "veynaud11@archive.org", "shirt_size": "XS", "company_name": "Jaxbean", "donation": 212 },
-    { "id": 39, "first_name": "Dollie", "last_name": "McDarmid", "email": "dmcdarmid12@tinyurl.com", "shirt_size": "S", "company_name": "Kayveo", "donation": 74 },
+    { "id": 39, "first_name": "Dollie", "last_name": "McDarmcompany_name", "email": "dmcdarmcompany_name12@tinyurl.com", "shirt_size": "S", "company_name": "Kayveo", "donation": 74 },
     { "id": 40, "first_name": "Minna", "last_name": "Hymas", "email": "mhymas13@cornell.edu", "shirt_size": "XS", "company_name": "Vimbo", "donation": 101 },
-    { "id": 41, "first_name": "Jsandye", "last_name": "Frend", "email": "jfre                                                                                                                         nd14@ca.gov", "shirt_size": "XS", "company_name": "Latz", "donation": 156 },
+    { "id": 41, "first_name": "Jsandye", "last_name": "Frend", "email": "jfrend14@ca.gov", "shirt_size": "XS", "company_name": "Latz", "donation": 156 },
     { "id": 42, "first_name": "Yevette", "last_name": "Hacket", "email": "yhacket15@wp.com", "shirt_size": "XL", "company_name": "Lazzy", "donation": 291 },
     { "id": 43, "first_name": "Hank", "last_name": "Zebedee", "email": "hzebedee16@ezinearticles.com", "shirt_size": "L", "company_name": "Gigashots", "donation": 241 },
     { "id": 44, "first_name": "Jodie", "last_name": "Stawell", "email": "jstawell17@yale.edu", "shirt_size": "S", "company_name": "Jaxspan", "donation": 262 },
     { "id": 45, "first_name": "Falito", "last_name": "Karsh", "email": "fkarsh18@pcworld.com", "shirt_size": "S", "company_name": "Mycat", "donation": 239 },
     { "id": 46, "first_name": "Reginauld", "last_name": "Purselowe", "email": "rpurselowe19@thetimes.co.uk", "shirt_size": "L", "company_name": "Jabbersphere", "donation": 11 },
-    { "id": 47, "first_name": "Vida", "last_name": "Tydd", "email": "vtydd1a@dropbox.com", "shirt_size": "S", "company_name": "Quaxo", "donation": 55 },
+    { "id": 47, "first_name": "Vcompany_namea", "last_name": "Tydd", "email": "vtydd1a@dropbox.com", "shirt_size": "S", "company_name": "Quaxo", "donation": 55 },
     { "id": 48, "first_name": "Anderea", "last_name": "MacGiolla Pheadair", "email": "amacgiollapheadair1b@xing.com", "shirt_size": "2XL", "company_name": "Kwimbee", "donation": 214 },
     { "id": 49, "first_name": "Bel", "last_name": "Alway", "email": "balway1c@ow.ly", "shirt_size": "S", "company_name": "Voolia", "donation": 107 },
     { "id": 50, "first_name": "Shell", "last_name": "Baine", "email": "sbaine1d@intel.com", "shirt_size": "M", "company_name": "Gabtype", "donation": 171 }
@@ -61,12 +61,12 @@ let fullName = [];
 runners.forEach((value) => { fullName.push(value.first_name + " " + value.last_name); });
 
 console.log(fullName);
+
 // ==== Challenge 2: Use .map() ====
 // The event director needs to have all the runner's first names converted to uppercase because the director BECAME DRUNK WITH POWER. Convert each first name into all caps and log the result
 let allCaps = [];
 
 allCaps = runners.map((value) => {
-
     return value.first_name.toUpperCase();
 });
 
@@ -76,18 +76,16 @@ console.log(allCaps);
 // The large shirts won't be available for the event due to an ordering issue.  Get a list of runners with large sized shirts so they can choose a different size. Return an array named largeShirts that contains information about the runners that have a shirt size of L and log the result
 let largeShirts = [];
 
-
-
 largeShirts = runners.filter((value) => {
     return value.shirt_size == 'L';
 });
-
 
 console.log(largeShirts);
 
 // ==== Challenge 4: Use .reduce() ====
 // The donations need to be tallied up and reported for tax purposes. Add up all the donations into a ticketPriceTotal array and log the result
 let ticketPriceTotal = [];
+
 ticketPriceTotal = runners.reduce((accumulator, value) => {
     return accumulator + value.donation;
 
@@ -96,21 +94,53 @@ ticketPriceTotal = runners.reduce((accumulator, value) => {
 console.log(ticketPriceTotal);
 
 
-
 // ==== Challenge 5: Be Creative ====
 // Now that you have used .forEach(), .map(), .filter(), and .reduce().  I want you to think of potential problems you could solve given the data set and the 5k fun run theme.  Try to create and then solve 3 unique problems using one or many of the array methods listed above.
 
 // // Problem 1
-// recover all the participants emails to add them to the quarterly newsletter.
+// recover all the participants emails to be sent the quarterly newsletter.
+// add their name and email address to a new Array.
+// log the results..map
 
-// add their name and email address to a new Array.log the results.
+let emailRunners = [];
 
-// // Problem 2
+runners.forEach((value) => {
+    emailRunners.push(` | Runner${value.company_name}: ${value.first_name.toUpperCase()} |${value.email}|`);
+}, );
+console.log(emailRunners);
 
-// filter the employess working
-// for skintee and skineze to recieve special seethrough tshirts.log their name and size shirt in a new Array.
-
-// // Problem 30
-
-// the bigboss says to find out who donated more less than $6 and give them last years leftover largeShirts.
+// problem2
+// the bigboss says to find out who donated less than $6 and give them last years leftover largeShirts.
 // create a new array with there size name and donation.
+
+let lessthan6 = [];
+
+lessthan6 = runners.filter((value) => {
+    return value.donation <= 10;
+});
+
+console.log(lessthan6);
+
+// // Problem 3
+//Google was at the event and loved the whole crew and hired them all. everybody works for Google now.
+//create a new array with the comapny_name as Google.
+
+const newJobEverybody = [];
+
+runners.forEach((value) => {
+    newJobEverybody.push(value);
+    newJobEverybody.forEach((element) => {
+        element.company_name = "Google";
+    });
+});
+
+console.log(newJobEverybody);
+// //
+// let newJobEverybody = [];
+
+// newJobEverybody = runners.map((value) => {
+//     value.company_name = "Google";
+//     return newJobEverybody;
+// });
+
+// console.log(newJobEverybody);
